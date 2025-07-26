@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jayadev Pandey</h1>
 <h3 align="center">A passionate Frontend Developer & Cyber Security Enthusiast from Nepal</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/6/722/350/anonymous-computer-backgrounds-wallpaper-preview.jpg" />
 
 - 🔭 I’m currently working on **Flutter Projects**  
 - 🌱 I’m currently learning **Ethical Hacking**  
